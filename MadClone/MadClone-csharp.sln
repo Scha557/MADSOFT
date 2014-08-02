@@ -1,23 +1,19 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{0314D9CD-2206-650F-4399-C896DFDF82E3}") = "MadClone", "Assembly-CSharp-vs.csproj", "{12B159A5-0A40-3AF6-935C-74A489425D16}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{12B159A5-0A40-3AF6-935C-74A489425D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12B159A5-0A40-3AF6-935C-74A489425D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12B159A5-0A40-3AF6-935C-74A489425D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12B159A5-0A40-3AF6-935C-74A489425D16}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-		GlobalSection(MonoDevelopProperties) = preSolution
+				GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
